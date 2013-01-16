@@ -1,1 +1,2 @@
-<Added>
+Notify by Matthew Foulks is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Based on a work at https://github.com/mfoulks3200/Notfiy.
